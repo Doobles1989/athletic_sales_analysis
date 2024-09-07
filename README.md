@@ -32,18 +32,6 @@ The notebook performs the following analysis:
 5. Determine which retailer sold the most women's athletic footwear
 6. Determine the day and week with the most women's athletic footwear sales
 
-## Authors
-
-Reis Hackl - Initial work
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
