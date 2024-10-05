@@ -1,4 +1,4 @@
-# Athletic Sales Analysis
+nojsdnfoinwoignoinoewnoknqegokn# Athletic Sales Analysis
 
 This repository contains a Jupyter notebook for analyzing athletic sales data using the pandas library in Python. The notebook performs various tasks such as importing and cleaning the data, determining which region sold the most products, which region had the most sales, which retailer had the most sales, which retailer sold the most women's athletic footwear, and determining the day and week with the most women's athletic footwear sales.
 
